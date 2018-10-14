@@ -20,6 +20,7 @@ public class BootStrapLogin {
 		
 
 		driver.findElement(By.xpath("//input[@type='text']")).sendKeys("sravani");
+		System.out.println("hi");
 
 	}
 
